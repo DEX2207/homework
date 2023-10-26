@@ -1,0 +1,7 @@
+E:\1111\c#-projects\задачи\задачи\bin\Debug\задачи.exe.config
+E:\1111\c#-projects\задачи\задачи\bin\Debug\задачи.exe
+E:\1111\c#-projects\задачи\задачи\bin\Debug\задачи.pdb
+E:\1111\c#-projects\задачи\задачи\obj\Debug\задачи.csproj.AssemblyReference.cache
+E:\1111\c#-projects\задачи\задачи\obj\Debug\задачи.csproj.CoreCompileInputs.cache
+E:\1111\c#-projects\задачи\задачи\obj\Debug\задачи.exe
+E:\1111\c#-projects\задачи\задачи\obj\Debug\задачи.pdb
